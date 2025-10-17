@@ -81,6 +81,17 @@ This feedback loop will guide iterative enhancements to the device’s design, A
 The Smart Chrome AI Hub and WildGuard Torch are designed to scale across diverse environments—from rural villages and wildlife parks to disaster-prone zones and urban safety networks. By combining privacy-first AI, real-time alerts, and decentralized incident logging, this system empowers communities to respond faster, safer, and smarter. Whether deployed to prevent human-wildlife conflict in India, monitor safety in remote schools in Africa, or assist emergency responders in flood zones, the platform adapts to local needs while contributing to global resilience and SDG advancement.
 ## Diagram
 Drawing.jpg
+## Presentatin Video
+
+## 🎥 Demo Video
+
+📽️ [Prototype Demo – WildGuard Torch in Action](https://youtu.be/j3lXH12fNAg)  
+Watch how the device uses LED arrays, flame visuals, and sound modules to deter wildlife safely and effectively.
+
+📽️ [Try It Out – Real-World Testing](https://youtu.be/7do9IEBHcwQ)  
+See the device tested in a real environment, showcasing its adaptability and impact.
+
+
 ## 🤝 Team
 
 - **Chrisbin Jaedon**
