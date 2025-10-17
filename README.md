@@ -65,6 +65,8 @@ In forest-edge communities, wild animal intrusions threaten lives, crops, and li
 ## 🌍 Global Impact Potential
 
 The Smart Chrome AI Hub and WildGuard Torch are designed to scale across diverse environments—from rural villages and wildlife parks to disaster-prone zones and urban safety networks. By combining privacy-first AI, real-time alerts, and decentralized incident logging, this system empowers communities to respond faster, safer, and smarter. Whether deployed to prevent human-wildlife conflict in India, monitor safety in remote schools in Africa, or assist emergency responders in flood zones, the platform adapts to local needs while contributing to global resilience and SDG advancement.
+## Diagram
+Drawing.jpg
 ## 🤝 Team
 
 - **Chrisbin Jaedon**
