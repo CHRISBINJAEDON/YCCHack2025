@@ -1,6 +1,6 @@
 # YCCHack2025
 WildGuard AI is a youth-led smart torch designed to safely deter wild animals using red LEDs, flame visuals, and sound effects. Future upgrades include AI motion detection, species recognition, and blockchain logging. Built for forest-fringe communities, it promotes peaceful coexistence and supports five UN SDGs.
-# 🌿 WildGuard AI: Smart Torch for Peaceful Coexistence
+# 🌿 WildGuard AI Smart Torch for Peaceful Coexistence
 
 **India’s first eco-friendly, AI-ready wildlife deterrent torch — empowering forest-fringe communities through ethical innovation.**
 
@@ -46,7 +46,7 @@ In forest-edge communities, wild animal intrusions threaten lives, crops, and li
 - Created India’s first AI-ready wildlife deterrent torch
 - Field-tested with villagers for real-world validation
 - Aligned with **UN SDGs**: 3 (Health), 9 (Innovation), 11 (Resilience), 13 (Climate Action), 15 (Biodiversity)
-- Selected for **AsterHacks 2025** and **Youth Coders Hack 2025**
+
 
 ## 📚 What We Learned
 
@@ -70,7 +70,7 @@ In forest-edge communities, wild animal intrusions threaten lives, crops, and li
 - **Johan Danieo R**
 
 School: Sacred Heart International School, Tamil Nadu, India  
-Hackathons: AsterHacks 2025, Youth Coders Hack 2025
+
 
 ## 📬 Contact
 
