@@ -62,6 +62,20 @@ In forest-edge communities, wild animal intrusions threaten lives, crops, and li
 - [ ] Deploy blockchain logging via Ethereum/IPFS
 - [ ] Build village-wide safety networks
 - [ ] Prepare for global deployment
+## 🌐 Scalability & Adaptability
+
+The WildGuard Torch is designed for deployment across diverse terrains and climatic conditions. Its modular hardware and software architecture allow for easy upgrades using the latest technologies, making it adaptable to forest edges, rural zones, and disaster-prone regions. Whether in humid jungles, dry grasslands, or mountainous terrain, the device remains effective and resilient.
+
+## 📊 Performance Indicators & Feedback Framework
+
+To ensure real-world effectiveness, the device will be distributed to communities living near forest areas. Performance will be evaluated based on user feedback, including:
+
+- 📡 Effective range of deterrence
+- 🐾 Types of wild animals repelled
+- 🔁 Frequency and reliability of alerts
+- 🛠️ Suggestions for improvement
+
+This feedback loop will guide iterative enhancements to the device’s design, AI behavior, and alert mechanisms—ensuring it evolves with community needs and environmental challenges.
 ## 🌍 Global Impact Potential
 
 The Smart Chrome AI Hub and WildGuard Torch are designed to scale across diverse environments—from rural villages and wildlife parks to disaster-prone zones and urban safety networks. By combining privacy-first AI, real-time alerts, and decentralized incident logging, this system empowers communities to respond faster, safer, and smarter. Whether deployed to prevent human-wildlife conflict in India, monitor safety in remote schools in Africa, or assist emergency responders in flood zones, the platform adapts to local needs while contributing to global resilience and SDG advancement.
