@@ -33,6 +33,50 @@ In forest-edge communities, wild animal intrusions threaten lives, crops, and li
   - `Arduino` for hardware control
   - `Ethereum/IPFS` for blockchain logging
   - `React Native` (planned) for mobile app interface
+  -## ⚙️ How It Works
+
+WildGuard Torch is an eco-friendly, rechargeable deterrent device designed to protect communities from stray and wild animal threats. It operates without producing smoke or harmful gases, making it safe for both humans and the environment.
+
+### 🔋 Power & Portability
+- Rechargeable via standard ports
+- Designed for low-maintenance, long-term use
+- Suitable for deployment in forest edges, rural zones, and urban streets
+
+### 🚨 Activation Sequence
+**On switching on the device:**
+- 🔴 A bright red LED array flashes from the front
+- 🔊 A loud sound module activates simultaneously
+- 🔥 Flame visuals simulate threat deterrence (non-combustive)
+- ⚡ All components are triggered instantly to create a multi-sensory deterrent effect
+
+This coordinated response is designed to startle and repel animals without causing harm, making it ideal for ethical wildlife management and urban safety.
+
+### 🐕 Initial Field Test
+As a first deployment, the device was used to drive away stray street dogs that posed a threat to pedestrians. The test confirmed its effectiveness in real-world conditions, validating its potential for broader use in wildlife-prone areas.
+
+---
+
+*Future upgrades will include AI-based motion detection, species recognition, and decentralized incident logging using blockchain.*
+
+### 🔋 Power & Portability
+- Rechargeable via standard ports
+- Designed for low-maintenance, long-term use
+- Suitable for deployment in forest edges, rural zones, and urban streets
+
+### 🚨 Activation Sequence
+Upon switching on:
+- 🔴 A bright red LED array flashes from the front
+- 🔊 A loud sound module activates simultaneously
+- 🔥 Flame visuals simulate threat deterrence (non-combustive)
+
+This multi-sensory response is designed to startle and repel animals without causing harm.
+
+### 🐕 Initial Field Test
+As a first deployment, the device was used to drive away stray street dogs that posed a threat to pedestrians. The test confirmed its effectiveness in real-world conditions, validating its potential for broader use in wildlife-prone areas.
+
+---
+
+*Future upgrades will include AI-based motion detection, species recognition, and decentralized incident logging using blockchain.*
 
 ## ⚙️ Challenges Faced
 
