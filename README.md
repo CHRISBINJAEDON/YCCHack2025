@@ -129,13 +129,13 @@ Drawing.jpg
 
 ## 🎥 Demo Video
 
-📽️ [Prototype Demo – WildGuard Torch in Action](https://youtu.be/j3lXH12fNAg)  
+📽️ [Prototype Demo – WildGuard Torch in Action] https://youtu.be/Xr7gXrUQYQc
 Watch how the device uses LED arrays, flame visuals, and sound modules to deter wildlife safely and effectively.
 
-📽️ [Try It Out – Real-World Testing](https://youtu.be/7do9IEBHcwQ)  
+📽️ [Try It Out – Real-World Testing]https://youtu.be/NjBK4aRgd2k
 See the device tested in a real environment, showcasing its adaptability and impact.
 
-
+Presentation Video https://youtu.be/Jue5utSDZxU
 ## 🤝 Team
 
 - **Chrisbin Jaedon**
