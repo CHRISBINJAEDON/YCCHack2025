@@ -136,6 +136,7 @@ Watch how the device uses LED arrays, flame visuals, and sound modules to deter 
 See the device tested in a real environment, showcasing its adaptability and impact.
 
 Presentation Video https://youtu.be/Jue5utSDZxU
+
 ## 🤝 Team
 
 - **Chrisbin Jaedon**
@@ -148,8 +149,8 @@ School: Sacred Heart International School, Tamil Nadu, India
 ## 📬 Contact
 
 For collaboration, feedback, or deployment inquiries:  
-📧 wildguard.ai.project@gmail.com *(example placeholder)*  
-🌐 [Devpost Submission](https://youth-coders-hack.devpost.com)
+📧 chrisbinjaedon2009@gmail.com  
+🌐 [Devpost Submission]https://devpost.com/software/wildguard-ai-smart-torch-for-peaceful-coexistence
 
 ---
 
